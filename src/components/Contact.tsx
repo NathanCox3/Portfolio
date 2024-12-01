@@ -69,7 +69,7 @@ const Contact: React.FC = () => {
           <ContactItem href="tel:289-259-7204">
             289-259-7204
           </ContactItem>
-          <ContactItem href="https://www.linkedin.com/in/nathan-cox" target="_blank" rel="noopener noreferrer">
+          <ContactItem href="https://www.linkedin.com/in/nathan-cox-" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </ContactItem>
         </ContactInfo>
